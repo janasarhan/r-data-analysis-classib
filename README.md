@@ -4,6 +4,10 @@ This repository contains Task 1 of the `AI_Omics_Internship_2025_Training` progr
 
 The main goal of this task is to perform basic data handling and exploratory analysis using R. It serves as an introduction to using RStudio, data loading, cleaning, and simple transformations.
 # files
+AI_Omics_Internship_2025_Training/
+├── data.csv # Raw dataset used in the analysis
+├── code.R # R script for analysis
+└── README.md # Project description
 jana mohamed ismail_Class_Ib_Assignment 
 patient_info
 R codes
