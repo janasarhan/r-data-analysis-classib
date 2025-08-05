@@ -1,47 +1,28 @@
-# r-analysis-template
+# Task 1 – AI_Omics_Internship_2025_Training
 
-<!-- badges: start -->
-[![Blog post](https://img.shields.io/badge/rostrum.blog-post-008900?labelColor=000000&logo=data%3Aimage%2Fgif%3Bbase64%2CR0lGODlhEAAQAPEAAAAAABWCBAAAAAAAACH5BAlkAAIAIf8LTkVUU0NBUEUyLjADAQAAACwAAAAAEAAQAAAC55QkISIiEoQQQgghRBBCiCAIgiAIgiAIQiAIgSAIgiAIQiAIgRAEQiAQBAQCgUAQEAQEgYAgIAgIBAKBQBAQCAKBQEAgCAgEAoFAIAgEBAKBIBAQCAQCgUAgEAgCgUBAICAgICAgIBAgEBAgEBAgEBAgECAgICAgECAQIBAQIBAgECAgICAgICAgECAQECAQICAgICAgICAgEBAgEBAgEBAgICAgICAgECAQIBAQIBAgECAgICAgIBAgECAQECAQIBAgICAgIBAgIBAgEBAgECAgECAgICAgICAgECAgECAgQIAAAQIKAAAh%2BQQJZAACACwAAAAAEAAQAAAC55QkIiESIoQQQgghhAhCBCEIgiAIgiAIQiAIgSAIgiAIQiAIgRAEQiAQBAQCgUAQEAQEgYAgIAgIBAKBQBAQCAKBQEAgCAgEAoFAIAgEBAKBIBAQCAQCgUAgEAgCgUBAICAgICAgIBAgEBAgEBAgEBAgECAgICAgECAQIBAQIBAgECAgICAgICAgECAQECAQICAgICAgICAgEBAgEBAgEBAgICAgICAgECAQIBAQIBAgECAgICAgIBAgECAQECAQIBAgICAgIBAgIBAgEBAgECAgECAgICAgICAgECAgECAgQIAAAQIKAAA7)](https://www.rostrum.blog/2019/06/11/r-repo-template/)
-<!-- badges: end -->
+This repository contains Task 1 of the `AI_Omics_Internship_2025_Training` program.
 
+The main goal of this task is to perform basic data handling and exploratory analysis using R. It serves as an introduction to using RStudio, data loading, cleaning, and simple transformations.
 
-## Purpose
+# Tools & Libraries Used
+- R
+- RStudio
+- dplyr
+- ggplot2
+- readr
+- tidyr
 
-An opinionated [GitHub repository template](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/) to begin a simple analytical project with R and RStudio.
+# Learning Objectives
 
-You should [read this blog post](https://www.rostrum.blog/2019/06/11/r-repo-template/) for a more in-depth explanation of this repo.
+- Practice navigating RStudio projects  
+- Learn to import and explore real datasets  
+- Apply basic data cleaning techniques  
+- Visualize data using `ggplot2`
 
-## How to use
+---
 
-Click the green 'Use this template' button from [in this repo](https://github.com/matt-dray/analysis-template) to copy it.
+## 👩‍💻 Author
 
-<img src="https://www.rostrum.blog/post/2019-06-11-a-repo-template-for-r-analysis_files/use-this.png" alt="The 'Use this template' button found in a GitHub repository template" width="200px">
-
-[You can also click here](https://github.com/matt-dray/r-analysis-template/generate) to open the page for copying the repo.
-
-## File tree
-
-```
-r-analysis-template/
-├── 01_read.R
-├── 02_tidy.R
-├── 03_model.R
-├── data/
-│   ├── README.md
-│   └── YYYMMDD_raw-data.csv
-├── docs/
-│   ├── README.md
-│   ├── template-document-example.docx
-│   ├── template-document-example.html
-│   └── template-document-example.Rmd
-├── ext/
-│   └── README.md
-├── output/
-│   ├── README.md
-│   └── YYYMMDD_cleaned-data.csv
-├── R/
-│   ├── functions.R
-│   └── README.md
-├── r-analysis-template.Rproj
-└── README.md
-```
+**Jana Sarhan**  
+Research Intern  
+AI_Omics_Internship_2025
